@@ -15,7 +15,7 @@ ou de qualquer outra instituição a que o autor esteja vinculado.
 
 **Pode conter erros, e é provável que contenha.** A concepção, o escopo, os passos, as fontes e as decisões de método são
 de cgarciafilho; a extração, o código, os gráficos, os testes e o texto foram feitos com inteligência artificial. Esta
-versão nacional ainda não foi lida aba a aba por uma pessoa nem avaliada por colegas; as conferências feitas até aqui são
+versão nacional foi lida aba a aba pelo responsável, mas ainda não foi avaliada por colegas; as conferências numéricas são
 automáticas e estão listadas na aba “Sobre esta versão”, que também diz quem fez o quê. Use com cautela e confira os
 números na fonte oficial (TabNet do DATASUS) antes de citar ou de decidir algo com base neles. As limitações estão na
 aba “Qualidade e métodos”.
